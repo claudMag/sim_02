@@ -42,9 +42,4 @@ public class AddProductoActivity extends AppCompatActivity {
             }
         });
     }
-
-
-
-
-
 }
